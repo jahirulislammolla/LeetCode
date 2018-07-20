@@ -12,5 +12,6 @@
 11. [sameTree](https://leetcode.com/problems/same-tree/description/)
 12. [mergeTwoSortedList](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 13. [maxArea](https://leetcode.com/submissions/detail/164850494/)
+14. [groupAnagrams](https://leetcode.com/submissions/detail/164851673/)
 
 
