@@ -13,5 +13,6 @@
 12. [mergeTwoSortedList](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 13. [maxArea](https://leetcode.com/submissions/detail/164850494/)
 14. [groupAnagrams](https://leetcode.com/submissions/detail/164851673/)
+15. [isBipartite](https://leetcode.com/submissions/detail/166256607/)
 
 
