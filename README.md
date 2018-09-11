@@ -17,4 +17,8 @@
 16. [validPalindrome](https://leetcode.com/problems/valid-palindrome-ii/description/)
 17. [sumOfLeftLeaves](https://leetcode.com/submissions/detail/169434396/)
 18. [isSymmetric](https://leetcode.com/submissions/detail/175276861/)
+19. [firstUniqChar](https://leetcode.com/submissions/detail/175280419/)
+20. [countSegments](https://leetcode.com/submissions/detail/175281176/)
+21. [compress](https://leetcode.com/submissions/detail/175286372/)
+22. [repeatedSubstringPattern](https://leetcode.com/submissions/detail/175288400/)
 
