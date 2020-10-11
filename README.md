@@ -21,4 +21,5 @@
 20. [countSegments](https://leetcode.com/submissions/detail/175281176/)
 21. [compress](https://leetcode.com/submissions/detail/175286372/)
 22. [repeatedSubstringPattern](https://leetcode.com/submissions/detail/175288400/)
+23. [second-highest-salary](https://leetcode.com/problems/second-highest-salary/)
 
