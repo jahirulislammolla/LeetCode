@@ -22,4 +22,5 @@
 21. [compress](https://leetcode.com/submissions/detail/175286372/)
 22. [repeatedSubstringPattern](https://leetcode.com/submissions/detail/175288400/)
 23. [second-highest-salary](https://leetcode.com/problems/second-highest-salary/)
+24. [WordBreak](https://leetcode.com/problems/word-break/description/)
 
